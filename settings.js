@@ -19,7 +19,7 @@ global.location = "Nigeria, Lagos, Abuja" //ur location
 global.botname = '𝐃𝖊𝚁𝖆 𝐁𝖔𝚝🧍🏽' //ur bot name
 global.ownernumber = '2349033495929' //ur owner number
 global.ownername = '𝐃𝖊𝚁𝖆🧍🏽' //ur owner name
-global.websitex = "https://youtu.be/N3kyujoG3vk"
+global.websitex = "https://chat.whatsapp.com/CHOR0WkQk8N6ZrhqQwnLqm"
 global.wagc = "https://chat.whatsapp.com/CHOR0WkQk8N6ZrhqQwnLqm"
 global.themeemoji = '🧍🏽'
 global.wm = "joker Bot Inc."
@@ -32,7 +32,7 @@ global.premium = ["2349033495929,2348022159244"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v4' // menu type 'v1' => 'v12'
+global.typemenu = 'v6' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '212' //set anti foreign number country code
