@@ -32,7 +32,7 @@ global.premium = ["2349033495929,2348022159244"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v6' // menu type 'v1' => 'v12'
+global.typemenu = 'v5' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '212' //set anti foreign number country code
