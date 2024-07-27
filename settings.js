@@ -16,19 +16,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "Nigeria, Lagos, africa" //ur location
 
 //new
-global.botname = 'Veto.🌊' //ur bot name
-global.ownernumber = '23409060068115' //ur owner number
-global.ownername = 'Veto.🌊' //ur owner name
-global.websitex = "https://chat.whatsapp.com/BGDt8aawzdYE3SiMRjGhbS"
-global.wagc = "https://chat.whatsapp.com/BGDt8aawzdYE3SiMRjGhbS"
-global.themeemoji = '🌊'
+global.botname = 'theCyleeBot💊🖤' //ur bot name
+global.ownernumber = '27736297296' //ur owner number
+global.ownername = '𝐂𝚫𝐃𝚰𝐋𝐋𝚫𝐂 𝐂𝐘𝐋𝚵𝚵 💊🖤' //ur owner name
+global.websitex = "https://chat.whatsapp.com/CJ0HwPcqHdgDlDTknnWBOt"
+global.wagc = "https://chat.whatsapp.com/CJ0HwPcqHdgDlDTknnWBOt"
+global.themeemoji = '💊🖤'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
-global.author = "Veto.🌊"
-global.creator = "23409060068115@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["23409060068115"] // Premium User
+global.author = "𝐂𝚫𝐃𝚰𝐋𝐋𝚫𝐂 𝐂𝐘𝐋𝚵𝚵 💊🖤"
+global.creator = "27736297296@s.whatsapp.net"
+global.xprefix = '∆'
+global.premium = ["27736297296"] // Premium User
 global.hituet = 0
 
 //bot sett
