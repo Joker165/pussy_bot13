@@ -16,31 +16,31 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "Nigeria, Lagos, africa" //ur location
 
 //new
-global.botname = 'theCyleeBot💊🖤' //ur bot name
-global.ownernumber = '27736297296' //ur owner number
-global.ownername = '𝐂𝚫𝐃𝚰𝐋𝐋𝚫𝐂 𝐂𝐘𝐋𝚵𝚵 💊🖤' //ur owner name
-global.websitex = "https://chat.whatsapp.com/CJ0HwPcqHdgDlDTknnWBOt"
-global.wagc = "https://chat.whatsapp.com/CJ0HwPcqHdgDlDTknnWBOt"
-global.themeemoji = '💊🖤'
+global.botname = 'Darksage' //ur bot name
+global.ownernumber = '2349136470191' //ur owner number
+global.ownername = 'Darksage' //ur owner name
+global.websitex = "https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43"
+global.wagc = "https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43"
+global.themeemoji = '🪬'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
-global.author = "𝐂𝚫𝐃𝚰𝐋𝐋𝚫𝐂 𝐂𝐘𝐋𝚵𝚵 💊🖤"
-global.creator = "27736297296@s.whatsapp.net"
-global.xprefix = '∆'
-global.premium = ["27736297296"] // Premium User
+global.author = "Darksage"
+global.creator = "2348022159244@s.whatsapp.net"
+global.xprefix = '.'
+global.premium = ["2349136470191"] // Premium User
 global.hituet = 0
 
 //bot sett
 global.typemenu = 'v8' // menu type 'v1' => 'v12'
-global.typereply = 'v4' // reply type 'v1' => 'v4'
+global.typereply = 'v2' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '212' //set anti foreign number country code
 global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = true //auto status/story view
 global.adminevent = true //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
